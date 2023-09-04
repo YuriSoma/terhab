@@ -1,0 +1,25 @@
+{
+  "name": "terhab",
+  "version": "1.0.0",
+  "description": "Training project on my Udemy NodeJS and Express course.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriSoma/terhab.git"
+  },
+  "author": "Yaser Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriSoma/terhab/issues"
+  },
+  "homepage": "https://github.com/YuriSoma/terhab#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
